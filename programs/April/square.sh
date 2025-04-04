@@ -1,8 +1,3 @@
-
-
-
-
-
 echo -n "Enter the file name: "
 read file
 
